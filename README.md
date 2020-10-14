@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-[![oximov's github stats](https://github-readme-stats.vercel.app/api?username=oximov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+    Lycéen de 17 ans | Développeur Java à ses heures perdues | France [FR]
 
