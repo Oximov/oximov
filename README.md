@@ -1,10 +1,11 @@
-### Hi there 👋
+### Salut 👋
 
 
     Lycéen de 17 ans | Développeur à ses heures perdues | France [FR]
     
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oximov&show_icons=true&theme=algolia)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oximov&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+### Mes compétences
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oximov&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oximov&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
